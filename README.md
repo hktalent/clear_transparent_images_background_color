@@ -1,0 +1,1 @@
+# clear_transparent_images_background_color
