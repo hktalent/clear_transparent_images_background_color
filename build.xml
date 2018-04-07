@@ -90,7 +90,7 @@
 			<manifest>
 				<attribute name="Bundle-Name" value="巅狼团队 mtx_tianxia" />
 				<attribute name="Created-By" value="巅狼团队 mtx_tianxia ${TODAY}" />
-				<attribute name="Bundle-SymbolicName" value="http://......." />
+				<attribute name="Bundle-SymbolicName" value="https://github.com/hktalent/myhktools" />
 				<attribute name="Main-Class" value="com.mtx.hktalent.Main" />
 				<attribute name="Specification-Version" value="${PVer}" />
 				<attribute name="Implementation-Version" value="${PVer}" />
