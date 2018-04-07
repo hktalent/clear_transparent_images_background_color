@@ -4,7 +4,7 @@ clear transparent images (jpg、png、ttf file) background color
 
 # 批量处理命令
 发现不用编程了
-'''
+```
 1、苹果系统：mac os系统
 
 2、安装：brew
@@ -23,5 +23,5 @@ magick 1335624623-956109868.jpg -fuzz 20% -fill none -draw "alpha 1x1 floodfill"
 
 4、查找、批量处理
 find ./ -type f \( -iname \*.jpg -o -iname \*.png -o -iname \*.ttf -o -iname \*.tif \) -exec convert {} \( +clone -blur 0x20 \) -compose Divide_Src -composite {} \;
-'''
+```
 
